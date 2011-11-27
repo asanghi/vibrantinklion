@@ -9,3 +9,7 @@ PS. You could then remove the ~/Library/Application Support/SIMBL/Plugings/Termi
 
 By the way, if you get the error that some of your Terminal SIMBL plugins are not being loaded, you need to go hack the Info.plist and ensure the maximum compatible version is 297. 
 Recording it here for my own reference. 
+
+November 27, 2011
+
+Adding Vibrant Ink Theme for iTerm2 app.
